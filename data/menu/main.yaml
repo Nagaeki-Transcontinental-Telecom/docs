@@ -1,0 +1,16 @@
+---
+main:
+  - name: Home
+    ref: "/home"
+  - name: Peering
+    ref: "/peering"
+  - name: BGP Community
+    ref: "/community"
+  - name: Contact
+    ref: "/contact"
+  - name: PeeringDB
+    ref: "https://www.peeringdb.com/net/32414"
+    external: true
+  - name: BGP.Tools
+    ref: "https://bgp.tools/as/199683"
+    external: true
